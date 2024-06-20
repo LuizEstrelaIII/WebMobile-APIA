@@ -2,10 +2,6 @@
 # Projeto App
 ## Instruções
 
-Refaça o seu projeto do site, agora como um App (e fazer as adaptações que achar necessárias OU pense num novo contexto)
-
-Utilize a mesma equipe para esta tarefa.
-
 Requisitos:
 - Jetpack Compose
 - Estado
